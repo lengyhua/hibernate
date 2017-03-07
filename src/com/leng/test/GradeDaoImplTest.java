@@ -34,7 +34,7 @@ public class GradeDaoImplTest {
 	}
 
 	@Test
-	public void testDelete() {lengyhua@163.comlengyhua@163.comlengyhua@163.comlengyhua@163.comlengyhua@163.comlengyhua@163.com
+	public void testDelete() {
 		fail("Not yet implemented");
 	}
 
